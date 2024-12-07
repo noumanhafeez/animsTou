@@ -34,3 +34,11 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# Android and iOS folders
+android/
+ios/
+
+# Ignore package.json and app.json
+package.json
+app.json
