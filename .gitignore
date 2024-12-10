@@ -39,6 +39,4 @@ yarn-error.*
 android/
 ios/
 
-# Ignore package.json and app.json
-package.json
-app.json
+
